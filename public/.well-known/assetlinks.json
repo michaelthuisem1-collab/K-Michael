@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.tangkhul.villagedirectory",
+      "sha256_cert_fingerprints": [
+        "14:6D:E9:7D:0F:52:AB:AC:6A:1A:1D:9C:20:9C:E7:E8:42:0E:98:8C:77:4A:17:F1:C0:B5:E9:B3:34:64:18:CE"
+      ]
+    }
+  }
+]

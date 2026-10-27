@@ -1,0 +1,8 @@
+{
+  "name": "Remix Tangkhul Village Directory",
+  "description": "Professional Progressive Web App (PWA) for managing Tangkhul village records, regional groupings, vote counts, and administration details offline and across devices.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

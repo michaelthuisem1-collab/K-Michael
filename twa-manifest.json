@@ -1,0 +1,48 @@
+{
+  "packageId": "com.tangkhul.villagedirectory",
+  "host": "ais-dev-7bgo2dq6z3jhi22mpv6whr-1035627775573.asia-southeast1.run.app",
+  "name": "Tangkhul Village Directory",
+  "launcherName": "VillageDir",
+  "themeColor": "#1E40AF",
+  "themeColorDark": "#0F172A",
+  "navigationColor": "#000000",
+  "navigationColorDark": "#000000",
+  "navigationDividerColor": "#00000000",
+  "navigationDividerColorDark": "#00000000",
+  "backgroundColor": "#F8FAFC",
+  "enableNotifications": true,
+  "startUrl": "/?source=android",
+  "iconUrl": "https://ais-dev-7bgo2dq6z3jhi22mpv6whr-1035627775573.asia-southeast1.run.app/pwa-512x512.png",
+  "maskableIconUrl": "https://ais-dev-7bgo2dq6z3jhi22mpv6whr-1035627775573.asia-southeast1.run.app/pwa-maskable-512x512.png",
+  "appVersionName": "1.0.0",
+  "appVersionCode": 1,
+  "shortcuts": [
+    {
+      "name": "Browse Directory",
+      "shortName": "Directory",
+      "url": "/?page=directory"
+    },
+    {
+      "name": "Add Village",
+      "shortName": "Add",
+      "url": "/?page=add"
+    }
+  ],
+  "generatorApp": "bubblewrap-cli",
+  "webManifestUrl": "https://ais-dev-7bgo2dq6z3jhi22mpv6whr-1035627775573.asia-southeast1.run.app/manifest.webmanifest",
+  "fallbackType": "customtabs",
+  "features": {
+    "locationDelegation": {
+      "enabled": false
+    },
+    "playBilling": {
+      "enabled": false
+    }
+  },
+  "alphaDependencies": {
+    "enabled": false
+  },
+  "enableSiteSettingsShortcut": true,
+  "isChromeOSOnly": false,
+  "fullScopeUrl": "https://ais-dev-7bgo2dq6z3jhi22mpv6whr-1035627775573.asia-southeast1.run.app/"
+}
